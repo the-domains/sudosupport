@@ -1,0 +1,14 @@
+layout_spectrum: 0.385388478403911
+typography_spectrum: 0.40654897480271757
+color:
+  brandStrength: 0.020732559263706207
+  lightness: 0.7193432657513767
+  saturation: 0.5226120220031589
+  rhythmicContrast: 0.6446394168306142
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: sudo.support
